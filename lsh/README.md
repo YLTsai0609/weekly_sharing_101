@@ -48,13 +48,10 @@ space complexity :
 1. hash functions : $O(DK)$
 2. hashes : $O(K)$
 
-# P4
-
 # Demo
 
 * switch to notebook.
 
-# P5
 # Libraries
 
 1. [NearPy, 700+ stars](https://github.com/pixelogik/NearPy)
