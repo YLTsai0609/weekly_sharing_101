@@ -24,6 +24,7 @@ suppose we have $N$ docuemnts.
 find similar documents by similarity function
 
 time complexity : $O(N^2)$
+
 space complexity : $O(1)$
 
 
@@ -48,6 +49,8 @@ space complexity :
 1. hash functions : $O(DK)$
 2. hashes : $O(K)$
 
+similar match in the bucket should be efficient. (if no data skew problem)
+
 # Demo
 
 * switch to notebook.
@@ -69,4 +72,10 @@ space complexity :
       2. FAISS --> Facebook
       3. ScaNN --> Google
 
-keyword : `locality sensitive hashing`, `lsh` `approximately nearest neighbor`, `ann`
+keyword : `locality sensitive hashing`, `lsh` , `approximately nearest neighbor`, `ann`
+
+# Ref
+
+1. [note abount LSH](https://github.com/YLTsai0609/cs246_mining_massive_datasets)
+   
+2. [CS 246 mining_massive_datasets, L3, L4](https://www.youtube.com/watch?v=dRWO3il-jjA&list=PLoCMsyE1cvdVnCgHk43vRy7PVTVWJ6WVR&index=4)
