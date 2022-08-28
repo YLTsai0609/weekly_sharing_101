@@ -93,3 +93,5 @@ target/
 
 # draft
 .draft.md
+*/*.draft.md
+.*/
