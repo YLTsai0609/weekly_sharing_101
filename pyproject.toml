@@ -1,7 +1,6 @@
 [tool.poetry]
-name = "lsh_minimum"
+name = "weekly_sharing_101"
 version = "0.1.0"
-description = "minimum example for lsh"
 authors = ["Your Name <you@example.com>"]
 license = "MIT"
 
