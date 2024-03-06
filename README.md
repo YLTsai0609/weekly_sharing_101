@@ -1,5 +1,7 @@
 # Weekly Sharing 101
 
+[all of the topics](https://docs.google.com/spreadsheets/d/1UeAqO5RvI6zFbJGhOUV6u--KCc9fKY4HWmf1jWkorb0/edit#gid=1285441569)
+
 1 concept a week. become a smater youself.
 
 week|topic|date
